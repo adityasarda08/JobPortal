@@ -1,0 +1,6 @@
+{
+    "editor.wordWrap": "on",
+    "chat.disableAIFeatures": false,
+    "github.copilot.chat.anthropic.contextEditing.mode": "clear-both",
+    "extensions.ignoreRecommendations": false
+}
